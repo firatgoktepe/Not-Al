@@ -1,6 +1,6 @@
 # Not-Al
 
-Taking notes app builded by React and Bootstrap / Not alma uygulamasi
+Taking notes app builded by React and Bootstrap / Not alma web uygulamasi
 
 Live Link:  https://not-al.netlify.app/
 
